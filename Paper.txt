@@ -1,0 +1,3 @@
+Observations of Brooklyn House Sales
+
+The sales data appears to have a positve relation with Sales Price and Gross Square Feet.  We observe that the median square feet is 1,888 square feet with a median sale price of $504,631.  This would put our price per square foot at $267.28 for family homes. 
